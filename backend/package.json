@@ -1,0 +1,8 @@
+{
+  "name": "sos-app-backend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "resend": "^3.4.0"
+  }
+}
