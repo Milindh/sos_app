@@ -1,4 +1,4 @@
-const SOS_ENDPOINT = 'https://YOUR-BACKEND-URL.vercel.app/api/sos';
+const SOS_ENDPOINT = 'https://sos-app-two-sigma.vercel.app/';
 
 export async function sendSosAlert({ userName, contacts, location }: any) {
   const payload = {
